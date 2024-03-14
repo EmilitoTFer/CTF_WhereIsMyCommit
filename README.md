@@ -1,2 +1,2 @@
 # CTF_WhereIsMyCommit
-Hola, esta es mi primerita línea de código en Github.
+Como sé que eres nuevo/a (O no) en el mundillo de los CTF, la primera flag te la regalo.
